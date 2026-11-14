@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.env
+*.env
+.gemini_key
+.venv
+venv/
